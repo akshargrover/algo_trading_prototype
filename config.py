@@ -1,0 +1,1 @@
+TICKERS = ["INFY.NS", "TCS.NS", "RELIANCE.NS"]
